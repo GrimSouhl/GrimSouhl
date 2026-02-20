@@ -7,14 +7,19 @@
 
 ## 🎓 Education & Certifications
 
-### 📜 Certifications
+###  Certifications
 - 🛡 ENS Certification
 
-### 🎓 Academic Background
+###  Academic Background
 - Informatics Engineering (UMA)
 
+##My past jobs😳
+- Personal Tutor! (ESO/School) : Mathematics, English, Language and Literature !
+- shop assistant (enforces social treatment!)
+- GII (UMA) Atenea
+
 ## 🛠 HISTORY
-### 💻 Languages
+###  Languages
 <p>
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white"/>
@@ -28,7 +33,7 @@
   <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white"/>
 </p>
 
-### 🗄 Databases
+###  Databases
 <p>
   <img src="https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white"/>
@@ -36,7 +41,7 @@
   <img src="https://img.shields.io/badge/-PLSQL-F80000?logo=oracle&logoColor=white"/>
 </p>
 
-### 🤖 AI / Robotics
+###  AI / Robotics
 <p>
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white"/>
@@ -46,7 +51,7 @@
   <img src="https://img.shields.io/badge/-ARM-0091BD?logo=arm&logoColor=white"/>
 </p>
 
-### 🛠 Tools
+###  Tools
 <p>
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white"/>

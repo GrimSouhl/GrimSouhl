@@ -13,7 +13,7 @@
 ###  Academic Background
 - Informatics Engineering (UMA)
 
-##My past jobs😳
+## My past jobs😳
 - Personal Tutor! (ESO/School) : Mathematics, English, Language and Literature !
 - shop assistant (enforces social treatment!)
 - GII (UMA) Atenea

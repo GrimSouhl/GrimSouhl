@@ -4,7 +4,13 @@
 🤖 AI & Robotics Geek  
 🚴 Bikes Lover  
 </p>
+## 🎓 Education & Certifications
 
+### 📜 Certifications
+- 🛡 ENS Certification
+
+### 🎓 Academic Background
+- Informatics Engineering (UMA)
 
 ## 🛠 HISTORY
 ### 💻 Languages

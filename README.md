@@ -19,9 +19,9 @@
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
 ![PLSQL](https://img.shields.io/badge/-PLSQL-F80000?logo=oracle&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
 
 
 
 
-## 📊 Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=GrimSouhl&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=GrimSouhl&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)

@@ -2,7 +2,7 @@
 <h3 align="center"> Informatics Engineer</h3>
 <p align="center">
 🤖 AI & Robotics Geek  
-🚴 Bikes Lover  
+🚴 Bike Lover  
 </p>
 
 ## 🎓 Education & Certifications

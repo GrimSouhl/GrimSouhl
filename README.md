@@ -4,6 +4,7 @@
 🤖 AI & Robotics Geek  
 🚴 Bikes Lover  
 </p>
+
 ## 🎓 Education & Certifications
 
 ### 📜 Certifications

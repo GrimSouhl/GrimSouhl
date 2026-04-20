@@ -17,7 +17,8 @@
 - Personal Tutor! (ESO/School) : Mathematics, English, Language and Literature !
 - shop assistant (enforces social treatment!)
 - GII (UMA) Atenea
-
+- IT scholar Technician (MADES)
+  
 ## 🛠 HISTORY
 ###  Languages
 <p>

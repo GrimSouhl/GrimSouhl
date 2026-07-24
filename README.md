@@ -7,20 +7,22 @@
 
 ## 🎓 Education & Certifications
 
-###  Certifications
+###  Certifications & Courses
 - 🛡 ENS Certification
 - AI & Machine Learning (UpTech)
 
 ###  Academic Background
-- Informatics Engineering (UMA)
+- Bachelor in Informatics' Engineering (UMA)
 
-## My past jobs😳
+## Experience
+
+- IT Technician (MADES) 
+- GII Atenea (UMA)
 - Personal Tutor! (ESO/School) : Mathematics, English, Language and Literature !
-- shop assistant (enforces social treatment!)
-- GII (UMA) Atenea
-- IT Technician (MADES)
+- shop assistant
+
   
-## 🛠 HISTORY
+## Some Skills
 ###  Languages
 <p>
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white"/>

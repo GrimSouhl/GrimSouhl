@@ -9,6 +9,7 @@
 
 ###  Certifications
 - 🛡 ENS Certification
+- AI & Machine Learning (UpTech)
 
 ###  Academic Background
 - Informatics Engineering (UMA)
@@ -17,7 +18,7 @@
 - Personal Tutor! (ESO/School) : Mathematics, English, Language and Literature !
 - shop assistant (enforces social treatment!)
 - GII (UMA) Atenea
-- IT scholar Technician (MADES)
+- IT Technician (MADES)
   
 ## 🛠 HISTORY
 ###  Languages

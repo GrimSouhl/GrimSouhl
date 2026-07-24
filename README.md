@@ -14,6 +14,11 @@
 ###  Academic Background
 - Bachelor in Informatics' Engineering (UMA)
 
+### Languages
+- Spanish (Native)
+- English (Advanced)
+- French (Basic)
+- German (Basic)
 ## Experience
 
 - IT Technician (MADES) 

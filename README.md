@@ -1,10 +1,4 @@
 <h1 align="center">👋 Welcome! </h1>
-<h3 align="center"> Informatics Engineer</h3>
-<p align="center">
-🤖 AI & Robotics Geek  
-& MotorBike Lover  
-</p>
-
 ## 🎓 Education & Certifications
 
 ###  Certifications & Courses
@@ -19,13 +13,6 @@
 - English (Advanced)
 - French (Basic)
 - German (Basic)
-## Experience
-
-- IT Technician (MADES) 
-- GII Atenea (UMA)
-- Personal Tutor! (ESO/School) : Mathematics, English, Language and Literature !
-- shop assistant
-
   
 ## Some Skills
 ###  Languages
